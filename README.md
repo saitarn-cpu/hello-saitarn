@@ -1,5 +1,5 @@
 # hello-saitarn
-Good
+
 Hi saitarn
 
 Hubot here,I like Node.js and Coffeescript (that's what I'm made of!).
